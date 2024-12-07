@@ -12,3 +12,5 @@ Day 4: Ceres Search
 Day 5: Print Queue
 
 Day 6: Guard Gallivant
+
+Day 7: Bridge Repair
