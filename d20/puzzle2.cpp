@@ -99,7 +99,7 @@ int raceCondition2(){
     int m = map.size();
     int n = map[0].size();
 
-    //******************************************************
+    //****************************************************
     int ans = 0;
     vector<vector<int>> dmap = dijkstra(map, start);
     int radius = 20;
