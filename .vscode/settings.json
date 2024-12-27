@@ -50,6 +50,7 @@
         "typeinfo": "cpp",
         "fstream": "cpp",
         "map": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "set": "cpp"
     }
 }
